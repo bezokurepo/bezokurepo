@@ -2,7 +2,7 @@
 - 👀 We are a small language model startup, increasing representation in generative AI
 - 🌱 Our beta creates a data pipeline to tokenize training data using the CONLLU format from Universal Dependencies
 - 💞️ We joined the Intel Liftoff program in early 2024
-- 📫 HYou can email us on community@bezoku.ai
+- 📫 You can email us on community@bezoku.ai
 
 
 <!---
