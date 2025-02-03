@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bezokurepo
-- 👀 We are a small language model startup, increasing representation in generative AI
-- 🌱 Our beta creates a data pipeline to tokenize training data using the CONLLU format from Universal Dependencies
-- 💞️ We joined the Intel Liftoff program in early 2024. Our repos are private currently, but will be open sourced soon
+- 👀 We are a small language model platform, increasing representation for 2.5 BN under represented speakers
+- 🌱 Our beta creates a pipeline using CONLLU format (Universal Dependencies) to annotate, model and use RL to create SOTA capabilities
+- 💞️ We joined the Intel Liftoff program in early 2024. We have public and private repos with many of our tools to open sourced soon
 - 📫 You can email us on ian.gilmour@euler.digital
 
 
