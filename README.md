@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bezokurepo
-- 👀 We are a small language model (SLM) platform, increasing representation for 3 BN under represented speakers
-- 🌱 Our beta creates a pipeline using CoNLL-U format (Universal Dependencies) to tokenize, annotate, model and encrypt foundation SOTA models
-- 💞️ We joined the Intel Liftoff program in early 2024. We have public and private repos with many of our tools open sourced soon
-- 📫 You can email us on ian.gilmour@euler.digital
+- 👀 We design and build language technology for low resrouce and indigenous languages
+- 🌱 Our MVP includes data pipelines using UDPipe2 and conllu editor to tokenize and annotate corpus, build bi-LSTM models and deploy using openVINO
+- 💞️ We joined the Intel Liftoff program in early 2024 and joined Denvr Ai Ascend in August 2025
+- 📫 Email for more information => ian.gilmour@bezoku.ai
 
 
 <!---
