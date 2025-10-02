@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bezokurepo
 - 👀 We design and build language technology for low resource and indigenous languages
-- 🌱 Our MVP includes data pipelines using UDPipe2 and conllu editor. We tokenize & annotate corpus, build bi-LSTM models and deploy using openVINO
+- 🌱 Our platform builds / extends annotated data pipelines using UDPipe2 and conllu editor. We parse connlu annotated corpus into bi-LSTM models (built with PyTorch) that run on Gaudi2 GPU. We train local language models for sentiment analysis, NER, question and answer, search and many other use cases. We deploy seamlessly to Cloud/Desktop/Mobile/USB using Intel openVINO.
 - 💞️ We joined the Intel Liftoff program in early 2024 and joined Denvr Ai Ascend in August 2025
-- 📫 Email for more information => ian.gilmour@bezoku.ai
+- 📫 You can easily search @bezokurepo for models and data and email ian.gilmour@bezoku.ai to learn more 
 
 
 <!---
