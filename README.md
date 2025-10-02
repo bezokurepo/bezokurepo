@@ -2,7 +2,7 @@
 - 👀 We design and build language technology for low resource and indigenous languages
 - 🌱 Our platform builds / extends annotated data pipelines using UDPipe2 and conllu editor. We parse connlu annotated corpus into bi-LSTM models (built with PyTorch) that run on Gaudi2 GPU. We train local language models for sentiment analysis, NER, question and answer, search and many other use cases. We deploy seamlessly to Cloud/Desktop/Mobile/USB using Intel openVINO.
 - 💞️ We joined the Intel Liftoff program in early 2024 and joined Denvr Ai Ascend in August 2025
-- 📫 You can easily search @bezokurepo for models and data and email ian.gilmour@bezoku.ai to learn more 
+- 📫 You can easily search @bezokurepo for open source models and data. Email ian.gilmour@bezoku.ai to learn more 
 
 
 <!---
