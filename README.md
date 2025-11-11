@@ -5,7 +5,8 @@
 - :wrench: Foundation models are further developed to be useful: named entity resolution, sentiment analysis, semantic role labeling, question and answer, information extraction and search.
 - :astonished: Fine tuning is then exposed to extend for customer corpus.
 - :satellite: We deploy seamlessly to Cloud, Desktop and Mobile (Android) using Intel openVINO.
-- 💞️ We joined the Intel Liftoff program in early 2024 and the Denvr Ai Ascend program in August 2025. All public data and models are open sourced, see license.txt for details in each section.
+- 💞️ We joined the Intel Liftoff program in early 2024 and the Denvr Ai Ascend program in August 2025.
+- :unlock: All public data and models are open sourced, see license.txt for details in each section.
 - 📫 You can easily search @bezokurepo for open source models and data in the github search bar. If you need support, email ian.gilmour@bezoku.ai
 
 
